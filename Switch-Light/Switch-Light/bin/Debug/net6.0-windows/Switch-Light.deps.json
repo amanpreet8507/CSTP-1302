@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Switch-Light/1.0.0": {
+        "runtime": {
+          "Switch-Light.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Switch-Light/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
