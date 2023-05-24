@@ -1,0 +1,17 @@
+C:\Users\sandh\OneDrive - Kwantlen Polytechnic University\Documents\GitHub\CSTP-1302\Population-size-Calculator\Population-size-Calculator\bin\Debug\net6.0-windows\Population-size-Calculator.exe
+C:\Users\sandh\OneDrive - Kwantlen Polytechnic University\Documents\GitHub\CSTP-1302\Population-size-Calculator\Population-size-Calculator\bin\Debug\net6.0-windows\Population-size-Calculator.deps.json
+C:\Users\sandh\OneDrive - Kwantlen Polytechnic University\Documents\GitHub\CSTP-1302\Population-size-Calculator\Population-size-Calculator\bin\Debug\net6.0-windows\Population-size-Calculator.runtimeconfig.json
+C:\Users\sandh\OneDrive - Kwantlen Polytechnic University\Documents\GitHub\CSTP-1302\Population-size-Calculator\Population-size-Calculator\bin\Debug\net6.0-windows\Population-size-Calculator.dll
+C:\Users\sandh\OneDrive - Kwantlen Polytechnic University\Documents\GitHub\CSTP-1302\Population-size-Calculator\Population-size-Calculator\bin\Debug\net6.0-windows\Population-size-Calculator.pdb
+C:\Users\sandh\OneDrive - Kwantlen Polytechnic University\Documents\GitHub\CSTP-1302\Population-size-Calculator\Population-size-Calculator\obj\Debug\net6.0-windows\Population-size-Calculator.csproj.AssemblyReference.cache
+C:\Users\sandh\OneDrive - Kwantlen Polytechnic University\Documents\GitHub\CSTP-1302\Population-size-Calculator\Population-size-Calculator\obj\Debug\net6.0-windows\Population_size_Calculator.Form1.resources
+C:\Users\sandh\OneDrive - Kwantlen Polytechnic University\Documents\GitHub\CSTP-1302\Population-size-Calculator\Population-size-Calculator\obj\Debug\net6.0-windows\Population-size-Calculator.csproj.GenerateResource.cache
+C:\Users\sandh\OneDrive - Kwantlen Polytechnic University\Documents\GitHub\CSTP-1302\Population-size-Calculator\Population-size-Calculator\obj\Debug\net6.0-windows\Population-size-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandh\OneDrive - Kwantlen Polytechnic University\Documents\GitHub\CSTP-1302\Population-size-Calculator\Population-size-Calculator\obj\Debug\net6.0-windows\Population-size-Calculator.AssemblyInfoInputs.cache
+C:\Users\sandh\OneDrive - Kwantlen Polytechnic University\Documents\GitHub\CSTP-1302\Population-size-Calculator\Population-size-Calculator\obj\Debug\net6.0-windows\Population-size-Calculator.AssemblyInfo.cs
+C:\Users\sandh\OneDrive - Kwantlen Polytechnic University\Documents\GitHub\CSTP-1302\Population-size-Calculator\Population-size-Calculator\obj\Debug\net6.0-windows\Population-size-Calculator.csproj.CoreCompileInputs.cache
+C:\Users\sandh\OneDrive - Kwantlen Polytechnic University\Documents\GitHub\CSTP-1302\Population-size-Calculator\Population-size-Calculator\obj\Debug\net6.0-windows\Population-size-Calculator.dll
+C:\Users\sandh\OneDrive - Kwantlen Polytechnic University\Documents\GitHub\CSTP-1302\Population-size-Calculator\Population-size-Calculator\obj\Debug\net6.0-windows\refint\Population-size-Calculator.dll
+C:\Users\sandh\OneDrive - Kwantlen Polytechnic University\Documents\GitHub\CSTP-1302\Population-size-Calculator\Population-size-Calculator\obj\Debug\net6.0-windows\Population-size-Calculator.pdb
+C:\Users\sandh\OneDrive - Kwantlen Polytechnic University\Documents\GitHub\CSTP-1302\Population-size-Calculator\Population-size-Calculator\obj\Debug\net6.0-windows\Population-size-Calculator.genruntimeconfig.cache
+C:\Users\sandh\OneDrive - Kwantlen Polytechnic University\Documents\GitHub\CSTP-1302\Population-size-Calculator\Population-size-Calculator\obj\Debug\net6.0-windows\ref\Population-size-Calculator.dll
