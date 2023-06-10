@@ -1,0 +1,17 @@
+C:\Users\amanp\OneDrive\Documents\GitHub\CSTP-1302\Assignment-1-Part-II\Assignment-1-Part-II\bin\Debug\net6.0-windows\Assignment-1-Part-II.exe
+C:\Users\amanp\OneDrive\Documents\GitHub\CSTP-1302\Assignment-1-Part-II\Assignment-1-Part-II\bin\Debug\net6.0-windows\Assignment-1-Part-II.deps.json
+C:\Users\amanp\OneDrive\Documents\GitHub\CSTP-1302\Assignment-1-Part-II\Assignment-1-Part-II\bin\Debug\net6.0-windows\Assignment-1-Part-II.runtimeconfig.json
+C:\Users\amanp\OneDrive\Documents\GitHub\CSTP-1302\Assignment-1-Part-II\Assignment-1-Part-II\bin\Debug\net6.0-windows\Assignment-1-Part-II.dll
+C:\Users\amanp\OneDrive\Documents\GitHub\CSTP-1302\Assignment-1-Part-II\Assignment-1-Part-II\bin\Debug\net6.0-windows\Assignment-1-Part-II.pdb
+C:\Users\amanp\OneDrive\Documents\GitHub\CSTP-1302\Assignment-1-Part-II\Assignment-1-Part-II\obj\Debug\net6.0-windows\Assignment-1-Part-II.csproj.AssemblyReference.cache
+C:\Users\amanp\OneDrive\Documents\GitHub\CSTP-1302\Assignment-1-Part-II\Assignment-1-Part-II\obj\Debug\net6.0-windows\Assignment_1_Part_II.Form1.resources
+C:\Users\amanp\OneDrive\Documents\GitHub\CSTP-1302\Assignment-1-Part-II\Assignment-1-Part-II\obj\Debug\net6.0-windows\Assignment-1-Part-II.csproj.GenerateResource.cache
+C:\Users\amanp\OneDrive\Documents\GitHub\CSTP-1302\Assignment-1-Part-II\Assignment-1-Part-II\obj\Debug\net6.0-windows\Assignment-1-Part-II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amanp\OneDrive\Documents\GitHub\CSTP-1302\Assignment-1-Part-II\Assignment-1-Part-II\obj\Debug\net6.0-windows\Assignment-1-Part-II.AssemblyInfoInputs.cache
+C:\Users\amanp\OneDrive\Documents\GitHub\CSTP-1302\Assignment-1-Part-II\Assignment-1-Part-II\obj\Debug\net6.0-windows\Assignment-1-Part-II.AssemblyInfo.cs
+C:\Users\amanp\OneDrive\Documents\GitHub\CSTP-1302\Assignment-1-Part-II\Assignment-1-Part-II\obj\Debug\net6.0-windows\Assignment-1-Part-II.csproj.CoreCompileInputs.cache
+C:\Users\amanp\OneDrive\Documents\GitHub\CSTP-1302\Assignment-1-Part-II\Assignment-1-Part-II\obj\Debug\net6.0-windows\Assignment-1-Part-II.dll
+C:\Users\amanp\OneDrive\Documents\GitHub\CSTP-1302\Assignment-1-Part-II\Assignment-1-Part-II\obj\Debug\net6.0-windows\refint\Assignment-1-Part-II.dll
+C:\Users\amanp\OneDrive\Documents\GitHub\CSTP-1302\Assignment-1-Part-II\Assignment-1-Part-II\obj\Debug\net6.0-windows\Assignment-1-Part-II.pdb
+C:\Users\amanp\OneDrive\Documents\GitHub\CSTP-1302\Assignment-1-Part-II\Assignment-1-Part-II\obj\Debug\net6.0-windows\Assignment-1-Part-II.genruntimeconfig.cache
+C:\Users\amanp\OneDrive\Documents\GitHub\CSTP-1302\Assignment-1-Part-II\Assignment-1-Part-II\obj\Debug\net6.0-windows\ref\Assignment-1-Part-II.dll

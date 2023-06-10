@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "tyYBQneRrjLIkVT2M5WQcwfsyyF/yI4uRZxH3Q+YEA+q4dtDrNQzBVsaaoCI8URzl7AjM++lkStXCC1RrCARPA==",
+  "dgSpecHash": "/R5qQ9gc6QjunBuw21n1FHJqBfV1B6gtPeuS3S+jH58GMhyZC77zmV6Y50D775KanHmy0w2ILPPE2KCnzPWo8g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\000466810\\source\\repos\\cstp1302\\Week_3\\Week_3\\Week_3.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\amanp\\OneDrive\\Documents\\GitHub\\CSTP-1302\\Week_3\\Week_3\\Week_3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amanp\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\amanp\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\amanp\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\amanp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

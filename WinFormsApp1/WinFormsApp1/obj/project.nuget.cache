@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "RcWFke5kIyI4GhobItMDtvznKWXWWgE9n7b/hek+0+xXraSEvPqfL8IvHZQw7umz5vMgrgl7btFt6HDZyzoXOw==",
+  "dgSpecHash": "ZLmznyRttM5LdJZP4uHp+H4j2S72OAgQv+DHDNan514dpox+u/Z1CblrQvV9dE2IGkdjkUuFwtxLAbDZab1/0w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\000466810\\source\\repos\\cstp1302\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\amanp\\OneDrive\\Documents\\GitHub\\CSTP-1302\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amanp\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\amanp\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\amanp\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\amanp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }
